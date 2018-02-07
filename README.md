@@ -34,7 +34,7 @@ I'm experimenting with characterwise RNNs, as demonstrated by Andrej Karpathy.
 
 - Barley
 
-- Bort
+- [Bort](https://www.youtube.com/watch?v=Au1He0_eCkw)
 
 - Brato
 
